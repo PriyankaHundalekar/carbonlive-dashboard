@@ -28,7 +28,9 @@ CarbonLive provides:
 
 ## 📸 Screenshots
 
-![CarbonLive Dashboard](image.png)
+![alt text](<CarbonLive System Architecture Infographic.png>)
+
+
 
 ## 🏗️ Architecture
 
@@ -100,7 +102,18 @@ npm run build
 vercel --prod
 ```
 
+![alt text](<Screenshot 2026-10-04 112826.png>)
+
+![alt text](image.png)
+
 ![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 
 
 ## 🤖 How Kiro AI IDE Was Used
@@ -160,7 +173,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🔗 Links
 
 - **Live Demo**: https://frontend-one-sage-s47bvkd15l.vercel.app
-- **AWS Builder Center Post**: [Link to your post]
+- **AWS Builder Center Post**: https://builder.aws.com/post/3KDXg3Q9iTUIg5OT1aVaA45TBO6_p/carbonlive-real-time-business-carbon-footprint-optimizer-built-with-kiro-ai
 - **GitHub Repository**: https://github.com/[your-username]/carbonlive-dashboard
 
 ---
