@@ -173,6 +173,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🔗 Links
 
 - **Live Demo**: https://frontend-one-sage-s47bvkd15l.vercel.app
+- **Demo Video**: https://www.loom.com/share/ee0c9445095c45ebad26bb82c03a87a8
 - **AWS Builder Center Post**: https://builder.aws.com/post/3KDXg3Q9iTUIg5OT1aVaA45TBO6_p/carbonlive-real-time-business-carbon-footprint-optimizer-built-with-kiro-ai
 - **GitHub Repository**: https://github.com/PriyankaHundalekar/carbonlive-dashboard/tree/main
 
