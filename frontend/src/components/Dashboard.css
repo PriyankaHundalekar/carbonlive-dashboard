@@ -1,0 +1,49 @@
+.dashboard {
+  width: 100%;
+  position: relative;
+}
+
+.dashboard-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.panel-row {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr;
+}
+
+.main-metrics {
+  grid-template-columns: 2fr 1fr;
+  align-items: start;
+}
+
+.main-metrics > * {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.secondary-panels {
+  grid-template-columns: 1fr 1fr;
+}
+
+.enterprise-section,
+.export-section {
+  grid-template-columns: 1fr;
+}
+
+@media (max-width: 1200px) {
+  .main-metrics,
+  .secondary-panels {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .panel-row {
+    grid-template-columns: 1fr !important;
+  }
+}
